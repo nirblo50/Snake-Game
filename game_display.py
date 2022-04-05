@@ -1,3 +1,7 @@
+"""
+This module was not developed by us and was given to us as part of the assignment
+"""
+
 import threading
 import time
 import tkinter as tki

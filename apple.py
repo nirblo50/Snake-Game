@@ -1,5 +1,6 @@
 from game_parameters import CELL_TYPE
 
+
 class Apple:
     """
     Represents an apple in the game.

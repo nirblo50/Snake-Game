@@ -27,7 +27,7 @@ DIRECTION_VECTORS: Dict[str, CELL_TYPE] = {
 class Snake:
     """
     Represents a snake.
-    The snake is the character controlled by the player.
+    The snake is the main character controlled by the player.
     """
 
     def __init__(self, cells: List[CELL_TYPE], direction: str):

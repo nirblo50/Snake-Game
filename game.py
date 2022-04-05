@@ -1,10 +1,4 @@
-# FILE: game.py
-# WRITER1: Nir Balouka, nir.balouka, 206760811
-# WRITER2: yiftach.sangero, yiftach_s, 208501122
-# EXERCISE: intro2cs2 ex10 2021
-# DESCRIPTION: snake game implementation
-
-from typing import Tuple, List, Dict, Optional
+from typing import Tuple, List, Optional
 import game_parameters
 from game_display import GameDisplay
 from snake import Snake, UP

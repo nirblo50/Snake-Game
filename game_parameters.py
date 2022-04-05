@@ -1,6 +1,5 @@
 import random
-from typing import Tuple, Any
-from typing import Tuple, List, Dict, Optional
+from typing import Tuple, List
 
 CELL_TYPE = Tuple[int, int]
 DRAW_TYPE = List[Tuple[int, int, str]]  # [(row, col, color)]

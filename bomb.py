@@ -4,7 +4,7 @@ from typing import List
 
 class Bomb:
     """
-    Represents a bomb.
+    Represents a bomb in the game.
     The snake should avoid the bomb and its blast.
     """
 
