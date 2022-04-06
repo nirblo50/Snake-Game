@@ -1,5 +1,5 @@
 """
-Play the game by running using this module
+Play the game by running this code
 """
 
 from game_display import GameDisplay
